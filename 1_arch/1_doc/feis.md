@@ -1,5 +1,9 @@
 # Fully Explicit Instruction Set
 
+## Rationale
+
+FEIS is extremely simple ISA family inspired by VLIW without any practical application in mind, just as a learning exercise. Specific FEIS-based ISA must specify connection of registers to execution units and actual prrocedure of instruction fetch and execution. It is supposed that one of the registers serves as instruction pointer (probably connected to the input and output of dedicated adder).
+
 ## Main ideas
 
 1. Only register transfers are encoded (several src/dst pairs may be included in instruction)
