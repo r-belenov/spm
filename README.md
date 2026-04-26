@@ -10,7 +10,7 @@ This is a placeholder for the things that, I think, every system programmer shou
     - 2_clock clock accurate
   - 3_llvm backend for llvm
 - 2_uarch design a microarchitecture
-  - 1_sim HDL (SystemVerilog?) impementation that can be simulated (e.g. in Icarus Verilog); should by synthesizable
+  - 1_sim HDL (SystemVerilog?) impementation that can be simulated (e.g. in Icarus Verilog); should be synthesizable
   - 2_fpga implementation for some FPGA
   - 3_asic
   - 4_llvm scheduling model for llvm
