@@ -1,7 +1,7 @@
 # spm
 System Programmer's Minimum
 
-This is a placeholder for the things that, I think, every system programmer should do before applying for a job but I personally didn't try even after 25 years in the industry. Here is a plan
+This is a placeholder for the things that, I think, every system programmer should do before applying for a job but I personally didn't try even after 25 years in the industry. Here is the plan
 
 - 1_arch design a CPU architecture
   - 1_doc document of an ISA (and probably some system level)
