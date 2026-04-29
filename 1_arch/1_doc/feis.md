@@ -44,5 +44,5 @@ FEIS is extremely simple ISA family inspired by VLIW without any practical appli
   - CMPLE
 7. Comments
   - Normal instruction flow happens when addr == 1, off == r0, st == 0, skip == 0
-  - CMP* set dst to 0 or all 1s (condional branch pattern is CMP rX, rA, rB; AND rDST, rDST, rX; ADD rDST, rDST, r0; use rDST as off in next instruction)
+  - CMP* set dst to 0 or all 1s (conditional branch pattern is CMP rX, rA, rB; AND rDST, rDST, rX; ADD rDST, rDST, r0; use rDST as off in next instruction)
   - Data loads/stores should set skip to 1; addr == 1 can be used to read immediate following the instruction
