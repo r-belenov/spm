@@ -2,7 +2,7 @@
 
 ## Rationale
 
-FEIS is extremely simple ISA family inspired by VLIW without any practical application in mind, just as a learning exercise. Specific FEIS-based ISA must specify available registers, execution units and how parts of instruction determine connection of registers to execution unit pins. It is supposed that one of the registers serves as instruction pointer (probably connected to the input and output of dedicated adder).
+FEIS (pronounced as  [fʲɛʃ] or [feːʃ]) is extremely simple ISA family inspired by VLIW without any practical application in mind, just as a learning exercise. Specific FEIS-based ISA must specify available registers, execution units and how parts of instruction determine connection of registers to execution unit pins. It is supposed that one of the registers serves as instruction pointer (probably connected to the input and output of dedicated adder).
 
 ## Main ideas
 
