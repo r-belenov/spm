@@ -1,0 +1,8 @@
+</$objtype/mkfile
+
+BIN=$home/bin/$objtype
+
+TARG=feis32emu
+OFILES=feis32emu.$O simfs.$O sim.$O feis32.$O
+
+</sys/src/cmd/mkone
